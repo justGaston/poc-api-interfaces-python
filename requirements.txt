@@ -1,0 +1,6 @@
+Flask
+fastapi
+uvicorn
+pydantic
+grpcio
+grpcio-tools
